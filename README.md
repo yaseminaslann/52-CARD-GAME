@@ -19,7 +19,11 @@ Kart Çekme ve Atma: Her turda oyuncular bir kart çeker ve bir kart atar. Amaç
 Elden Çıkma: Oyuncular ellerindeki tüm kartları gruplar ve diziler halinde düzenlediklerinde elden çıkabilirler.
 
 ## Proje Dosyaları
+
 rummy.cpp: Oyunun ana mantığını içeren C++ dosyası.
+
 rummy.h: Oyunun başlık dosyası.
+
 rummy.o: Derlenmiş nesne dosyası.
+
 rummy.exe: Çalıştırılabilir dosya.
