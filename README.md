@@ -8,7 +8,8 @@ Oyuncu Sayısı: Oyuncu sayısı genellikle 2 ila 6 arasında değişir.
 
 Amaç: Oyunun amacı, elindeki kartları belirli gruplar veya diziler halinde düzenleyerek elden çıkarmaktır.
 
-Gruplar ve Diziler:
+## Gruplar ve Diziler:
+
 Gruplar: Aynı değerdeki üç veya dört karttan oluşur (örneğin, üç tane 7).
 
 Diziler: Aynı renkte ardışık kartlardan oluşur (örneğin, Kupa 5, 6, 7).
